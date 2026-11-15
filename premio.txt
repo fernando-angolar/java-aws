@@ -1,3 +1,3 @@
 Base do prémio
-Valor base = 1000
+Valor base = 1000 + taxa 15%
 Cálculo final
